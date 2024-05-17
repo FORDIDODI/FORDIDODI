@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  ### Hi! 👋 I'm Shiddiq.
-![](https://komarev.com/ghpvc/?username=faridreaming&style=flat-square)
+### Hi! 👋 I'm Shiddiq.
+![](https://komarev.com/ghpvc/?username=FORDIDODI&style=flat-square)
 
 I'm a **Student** at **[Politeknik Negeri Medan](https://polmed.ac.id/)**.<br>
 I eat rice, noodle, and any halal foods.
